@@ -228,6 +228,14 @@
 | ネクタイ         | ネクタイ     | nekutai      | Necktie              | 今日は**ネクタイ**を締めています。   | I'm wearing a necktie today.                     |
 | 猫             | ねこ        | neko         | Cat                  | **猫**が寝ています。               | The cat is sleeping.                             |
 | 飲み物          | のみもの     | nomimono     | Drink (beverage)     | **飲**み**物**は何がいいですか。     | Which drink would you like?                      |
+| 東            | ひがし      | higashi      | East                 | **東**に向かいます。              | I head east.                                     |
+| 一つ           | ひとつ      | hitotsu      | One (thing)          | **一**つください。               | Please give me one.                              |
+| 人            | ひと       | hito         | Person               | **人**がたくさんいます。            | There are many people.                           |
+| 飛行機          | ひこうき     | hikouki      | Airplane             | **飛行機**で行きます。             | I go by airplane.                                |
+| 左            | ひだり      | hidari       | Left                 | **左**に曲がってください。           | Please turn left.                                |
+| 一月           | いちがつ     | ichigatsu    | January              | **一月**は寒いです。              | January is cold.                                 |
+| 洗濯           | せんたく     | sentaku      | Laundry, washing     | **洗濯**をします。               | I do the laundry.                                |
+| たくさん         | たくさん     | takusan      | A lot, many          | **たくさん**食べました。            | I ate a lot.                                     |
 
 ## Verbs
 
@@ -302,6 +310,9 @@
 | 飲む           | のむ       | nomu       | To drink                    | **水**を**飲**みます。            | I drink water.                        |
 | 貼る           | はる       | haru       | To stick, to paste          | 壁にポスターを**貼**ります。         | I stick a poster on the wall.         |
 | 話す           | はなす      | hanasu     | To speak, to talk           | 日本語を**話**します。            | I speak Japanese.                     |
+| 働く           | はたらく     | hataraku   | To work                     | 会社で**働**いています。           | I work at a company.                  |
+| 引く           | ひく       | hiku       | To pull                     | ドアを**引**いてください。          | Please pull the door.                 |
+| 弾く           | ひく       | hiku       | To play (instrument)        | ピアノを**弾**きます。            | I play the piano.                     |
 | 疲れる          | つかれる     | tsukareru  | To get tired                | 仕事で**疲**れました。             | I got tired from work.                |
 | 着く           | つく       | tsuku      | To arrive                   | 駅に**着**きました。              | I arrived at the station.             |
 | 作る           | つくる      | tsukuru    | To make                     | 料理を**作**ります。              | I make food.                          |
@@ -360,6 +371,7 @@
 | 小さな          | ちいさな     | chiisana   | Small                 | **小**さな**家**に住んでいます。    | I live in a small house.     |
 | 近い           | ちかい      | chikai     | Near, close           | 駅が**近**いです。             | The station is near.         |
 | 長い           | ながい      | nagai      | Long                  | **長**い髪ですね。             | You have long hair.          |
+| 低い           | ひくい      | hikui      | Low, short (height)   | 建物が**低**いです。            | The building is low.         |
 | つまらない       | つまらない   | tsumaranai | Boring                | この映画は**つまらない**です。     | This movie is boring.        |
 | 冷たい          | つめたい     | tsumetai   | Cold (to touch)       | 水が**冷**たいです。           | The water is cold.           |
 | 温い           | ぬるい      | nurui      | Lukewarm, tepid       | スープが**温**いです。          | The soup is lukewarm.        |
