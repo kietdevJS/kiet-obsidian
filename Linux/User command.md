@@ -1,0 +1,3 @@
+- Update username: adduser {username}
+- su {username}
+- adduser to sudoers: usermod -aG sudo {username}

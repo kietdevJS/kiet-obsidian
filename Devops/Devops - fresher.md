@@ -1,0 +1,7 @@
+- Cheat sheet for frequently used tools: [[Linux command cheat sheet]]
+- What is CI/CD ? [[CI - CD]]
+- What the fuck is a pipeline ? [[CI - CD Pipeline]]
+- Git branching strategy [[Git]]
+- Best practices for project creation 
+- What the fuck is docker ? [[Docker file]]
+- Gitlab [[Gitlab]]

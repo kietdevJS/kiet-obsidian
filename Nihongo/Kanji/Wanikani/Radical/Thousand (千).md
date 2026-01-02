@@ -1,0 +1,3 @@
+You have a slide supported by a big cross, which makes it so strong it can hold a lot of people at once. How many? A ==THOUSAND==! Imagine a thousand people going down this slide. You can hear a voice trying to count them as they go: "ONE! TWO! THREE HUNDRED! FIVE HUNDRED!" and so on. Finally the last person slides down and the voice calls out: "A THOUSAND!" You think it's over, but just as that group finishes, in come another thousand…
+
+![[Pasted image 20251130171349.png]]

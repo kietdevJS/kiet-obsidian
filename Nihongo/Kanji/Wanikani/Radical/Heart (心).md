@@ -1,0 +1,3 @@
+![[Pasted image 20251219172907.png]]
+
+Take a good look at this one. It kind of looks like a ==heart==. Not the heart emoji kind, but a real-deal beating heart. Basically, there's a lump in the middle (the heart), and three lines that make up the arteries. Okay, so it's not the most anatomically correct heart, but just look at those floppy arteries going in and out, doing their thing and keeping you alive. What's not to love?

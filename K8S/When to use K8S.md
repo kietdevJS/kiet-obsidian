@@ -1,0 +1,5 @@
+- big project, long run
+- scaling is required
+- multi environments
+- microservices
+- self healing capabilities

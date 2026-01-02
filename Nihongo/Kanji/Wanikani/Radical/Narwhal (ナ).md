@@ -1,0 +1,3 @@
+This radical looks like a ==narwhal==. See the tail at the bottom, and the majestic narwhal horn poking out at the top? It also looks like the katakana character ナ (na), so you can remember it that way too. Na-na-na-narwhal! Just be careful not to confuse this with the treasure radical (メ). The sideways line for that one is at more of a downward angle, like an "X." But the sideways line for narwhal is horizontal (ナ).
+
+![[Pasted image 20251130170708.png]]
