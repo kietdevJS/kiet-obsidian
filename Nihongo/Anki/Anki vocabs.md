@@ -234,6 +234,16 @@
 | 飛行機          | ひこうき     | hikouki      | Airplane             | **飛行機**で行きます。             | I go by airplane.                                |
 | 左            | ひだり      | hidari       | Left                 | **左**に曲がってください。           | Please turn left.                                |
 | 一月           | いちがつ     | ichigatsu    | January              | **一月**は寒いです。              | January is cold.                                 |
+| 一人           | ひとり      | hitori       | One person, alone    | **一人**で行きます。              | I go alone.                                      |
+| 暇            | ひま       | hima         | Free time, leisure   | 今**日**は**暇**です。            | I'm free today.                                  |
+| 百            | ひゃく      | hyaku        | Hundred              | **百**円です。                 | It's 100 yen.                                    |
+| 病院           | びょういん    | byouin       | Hospital             | **病院**に行きます。              | I go to the hospital.                            |
+| 病気           | びょうき     | byouki       | Illness, sickness    | **病気**になりました。             | I got sick.                                      |
+| 昼            | ひる       | hiru         | Noon, daytime        | **昼**に会いましょう。             | Let's meet at noon.                              |
+| 昼御飯          | ひるごはん    | hirugohan    | Lunch                | **昼御飯**を食べましょう。           | Let's eat lunch.                                 |
+| 広い           | ひろい      | hiroi        | Wide, spacious       | この部屋は**広**いです。            | This room is spacious.                           |
+| フィルム         | フィルム     | firumu       | Film                 | **フィルム**を買いました。           | I bought film.                                   |
+| 封筒           | ふうとう     | fuutou       | Envelope             | **封筒**をください。              | Please give me an envelope.                      |
 | 洗濯           | せんたく     | sentaku      | Laundry, washing     | **洗濯**をします。               | I do the laundry.                                |
 | たくさん         | たくさん     | takusan      | A lot, many          | **たくさん**食べました。            | I ate a lot.                                     |
 
