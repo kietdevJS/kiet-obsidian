@@ -14,7 +14,7 @@
 | 一日           | いちにち     | ichinichi    | One day              | **一日中**働きました。             | I worked all day.                                |
 | 一番           | いちばん     | ichiban      | Number one, the best | これが**一**番**好**きです。        | I like this one the best.                        |
 | 五日           | いつか      | itsuka       | The 5th day          | **五日**に会いましょう。            | Let's meet on the 5th.                           |
-| 今            | いま       | ima          | Now                  | **いま**何時ですか。              | What time is it now?                             |
+| 今            | いま       | ima          | Now                  | **いま**何時ですか。              | What time is it now?                             | ^vocab-now
 | 意味           | いみ       | imi          | Meaning              | この言葉の**意味**は何ですか。         | What is the meaning of this word?                |
 | 妹            | いもうと     | imouto       | Younger sister       | **妹**は**十**歳です。           | My younger sister is ten years old.              |
 | 入り口          | いりぐち     | iriguchi     | Entrance             | **入**り**口**はどこですか。        | Where is the entrance?                           |
@@ -124,11 +124,11 @@
 | 紅茶           | こうちゃ     | koucha       | Black tea            | 紅茶を飲みましょう。                | Let's drink black tea.                           |
 | 交番           | こうばん     | kouban       | Police box           | 交番で聞いてください。               | Please ask at the police box.                    |
 | 声            | こえ       | koe          | Voice                | **大**きな声で話してください。         | Please speak in a loud voice.                    |
-| 午後           | ごご       | gogo         | P.M., afternoon      | 午後**三**時に会いましょう。          | Let's meet at 3 p.m.                             |
+| 午後           | ごご       | gogo         | P.M., afternoon      | 午後**三**時に会いましょう。          | Let's meet at 3 p.m.                             | ^vocab-afternoon
 | 九日           | ここのか     | kokonoka     | 9th day              | **九日**に帰ります。              | I will return on the 9th.                        |
 | 九つ           | ここのつ     | kokonotsu    | Nine (things)        | **九**つください。               | Please give me nine.                             |
 | ご主人          | ごしゅじん    | goshujin     | Your husband         | ご**主人**はお元気ですか。           | Is your husband well?                            |
-| 午前           | ごぜん      | gozen        | A.M., morning        | 午前**八**時に起きました。           | I woke up at 8 a.m.                              |
+| 午前           | ごぜん      | gozen        | A.M., morning        | 午前**八**時に起きました。           | I woke up at 8 a.m.                              | ^vocab-morning
 | 今年           | ことし      | kotoshi      | This year            | 今年は忙しいです。                 | I'm busy this year.                              |
 | 今月           | こんげつ     | kongetsu     | This month           | 今**月**は**雨**が多いです。        | It's rainy this month.                           |
 | 今週           | こんしゅう    | konshuu      | This week            | 今週は忙しいです。                 | I'm busy this week.                              |
@@ -205,7 +205,7 @@
 | 年            | とし       | toshi        | Year, age            | 今**年**二十歳になります。           | I turn 20 this year.                             |
 | 図書館          | としょかん    | toshokan     | Library              | **図書館**で本を借ります。           | I borrow books at the library.                   |
 | 隣            | となり      | tonari       | Next to, neighbor    | **隣**に座ってください。            | Please sit next to me.                           |
-| 友達           | ともだち     | tomodachi    | Friend               | **友達**と遊びます。              | I play with my friend.                           |
+| 友達           | ともだち     | tomodachi    | Friend               | **友達**と遊びます。              | I play with my friend.                           | ^vocab-friend
 | 土曜日          | どようび     | doyoubi      | Saturday             | **土曜日**に映画を見ます。           | I watch a movie on Saturday.                     |
 | 鳥            | とり       | tori         | Bird                 | **鳥**が鳴いています。             | The bird is singing.                             |
 | ナイフ          | ナイフ      | naifu        | Knife                | **ナイフ**で切ります。             | I cut with a knife.                              |
@@ -298,7 +298,7 @@
 | 降りる          | おりる      | oriru      | Descend                     | 次の駅で**おり**ます。            | I will get off at the next station.   |
 | 終る           | おわる      | owaru      | Finish                      | 仕事が**おわり**ました。           | The work is finished.                 |
 | 出す           | だす       | dasu       | Submit                      | 本をかばんから**だします**。         | I take out a book out of my bag       |
-| 立つ           | たつ       | tasu       | To stand                    | いすから**たちます**。            | Standup from the chair                |
+| 立つ           | たつ       | tasu       | To stand                    | いすから**たちます**。            | Standup from the chair                | ^vocab-stand
 | 頼む           | たのむ      | tanomu     | To request, to ask          | ともだちにほんをたのむ。             | Ask a friend for a book.              |
 | 食べる          | たべる      | taberu     | To eat                      | りんごをたべる。                 | I eat an apple.                       |
 | 違う           | ちがう      | chigau     | To be different, to be wrong | これは**違い**ます。              | This is wrong.                        |

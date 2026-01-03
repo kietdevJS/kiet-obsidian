@@ -25,7 +25,7 @@ Picture a person with a lid (亠) on their head standing on one (一) line - the
 ---
 
 ## Related Vocabulary
-- [[Anki vocabs#立つ|立つ]] (to stand)
+- [[Anki vocabs#立つ|立つ]] - to stand
 
 ---
 
