@@ -243,7 +243,15 @@
 | 昼御飯          | ひるごはん    | hirugohan    | Lunch                | **昼御飯**を食べましょう。           | Let's eat lunch.                                 |
 | 広い           | ひろい      | hiroi        | Wide, spacious       | この部屋は**広**いです。            | This room is spacious.                           |
 | フィルム         | フィルム     | firumu       | Film                 | **フィルム**を買いました。           | I bought film.                                   |
+| フォーク         | フォーク     | fōku         | Fork                 | **フォーク**をください。            | Please give me a fork.                           |
 | 封筒           | ふうとう     | fuutou       | Envelope             | **封筒**をください。              | Please give me an envelope.                      |
+| 二日           | ふつか      | futsuka      | 2nd day, two days    | **二日**に会いましょう。            | Let's meet on the 2nd.                           |
+| 二つ           | ふたつ      | futatsu      | Two (things)         | **二**つください。               | Please give me two.                              |
+| 二人           | ふたり      | futari       | Two people           | **二人**で行きます。              | We go with two people.                           |
+| 太い           | ふとい      | futoi        | Thick, fat           | 太い木です。                   | It's a thick tree.                               |
+| 冬            | ふゆ       | fuyu         | Winter               | **冬**は寒いです。               | Winter is cold.                                  |
+| 豚肉           | ぶたにく     | butaniku     | Pork                 | **豚肉**を食べました。             | I ate pork.                                      |
+| 服            | ふく       | fuku         | Clothes              | 新しい**服**を買いました。           | I bought new clothes.                            |
 | 洗濯           | せんたく     | sentaku      | Laundry, washing     | **洗濯**をします。               | I do the laundry.                                |
 | たくさん         | たくさん     | takusan      | A lot, many          | **たくさん**食べました。            | I ate a lot.                                     |
 
@@ -323,6 +331,7 @@
 | 働く           | はたらく     | hataraku   | To work                     | 会社で**働**いています。           | I work at a company.                  |
 | 引く           | ひく       | hiku       | To pull                     | ドアを**引**いてください。          | Please pull the door.                 |
 | 弾く           | ひく       | hiku       | To play (instrument)        | ピアノを**弾**きます。            | I play the piano.                     |
+| 吹く           | ふく       | fuku       | To blow, to play (wind inst.)| 風が**吹**いています。            | The wind is blowing.                  |
 | 疲れる          | つかれる     | tsukareru  | To get tired                | 仕事で**疲**れました。             | I got tired from work.                |
 | 着く           | つく       | tsuku      | To arrive                   | 駅に**着**きました。              | I arrived at the station.             |
 | 作る           | つくる      | tsukuru    | To make                     | 料理を**作**ります。              | I make food.                          |
