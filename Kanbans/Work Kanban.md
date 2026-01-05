@@ -10,7 +10,9 @@ kanban-plugin: board
 
 ## In progress
 
-- [ ] Bug 188706 (mark as Pulse)
+- [ ] CONSOL - 187940 - Rejected @{2026-01-05}
+- [ ] CONSOL - 188115 - Rejected @{2026-01-05}
+- [ ] CONSOL - 186063 - Fixed @{2026-01-05}
 
 
 ## Done
@@ -24,6 +26,7 @@ kanban-plugin: board
 - [ ] Status report w50
 - [ ] Update permission model
 - [ ] Fix 177516 exception
+- [ ] Bug 188706 (mark as Pulse)
 
 
 
