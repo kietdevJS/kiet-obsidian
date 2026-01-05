@@ -252,8 +252,15 @@
 | 冬            | ふゆ       | fuyu         | Winter               | **冬**は寒いです。               | Winter is cold.                                  |
 | 豚肉           | ぶたにく     | butaniku     | Pork                 | **豚肉**を食べました。             | I ate pork.                                      |
 | 服            | ふく       | fuku         | Clothes              | 新しい**服**を買いました。           | I bought new clothes.                            |
+| プール          | プール      | pūru         | Pool                 | 夏に**プール**で泳ぎます。           | I swim in the pool in summer.                    |
+| 文章           | ぶんしょう    | bunshou      | Sentence, text       | **文章**を書きました。             | I wrote a sentence.                              |
+| ベッド          | ベッド      | beddo        | Bed                  | **ベッド**で寝ます。              | I sleep in bed.                                  |
+| ペット          | ペット      | petto        | Pet                  | **ペット**を飼っています。           | I have a pet.                                    |
+| 辺            | へん       | hen          | Area, vicinity       | この**辺**に住んでいます。           | I live in this area.                             |
+| 部屋           | へや       | heya         | Room                 | **部屋**を掃除します。             | I clean the room.                                |
 | 洗濯           | せんたく     | sentaku      | Laundry, washing     | **洗濯**をします。               | I do the laundry.                                |
 | たくさん         | たくさん     | takusan      | A lot, many          | **たくさん**食べました。            | I ate a lot.                                     |
+| ビー玉          | ビーだま     | biidama      | Marble (glass ball)  | 子供が**ビー玉**で遊んでいます。     | The child is playing with marbles.               | ^vocab-marble
 
 ## Verbs
 
@@ -332,6 +339,7 @@
 | 引く           | ひく       | hiku       | To pull                     | ドアを**引**いてください。          | Please pull the door.                 |
 | 弾く           | ひく       | hiku       | To play (instrument)        | ピアノを**弾**きます。            | I play the piano.                     |
 | 吹く           | ふく       | fuku       | To blow, to play (wind inst.)| 風が**吹**いています。            | The wind is blowing.                  |
+| 降る           | ふる       | furu       | To fall (rain/snow)         | 雨が**降**っています。             | It's raining.                         |
 | 疲れる          | つかれる     | tsukareru  | To get tired                | 仕事で**疲**れました。             | I got tired from work.                |
 | 着く           | つく       | tsuku      | To arrive                   | 駅に**着**きました。              | I arrived at the station.             |
 | 作る           | つくる      | tsukuru    | To make                     | 料理を**作**ります。              | I make food.                          |

@@ -20,3 +20,4 @@ When he's done playing with it, the king gives his ==ball== to ==Tama==ra (た�
 
 ## Related Vocabulary
 - [[Vocabulary Level 1#^vocab-ball|玉]] - ball
+- [[Anki vocabs#^vocab-marble|ビー玉 (biidama)]] - marble (glass ball)
