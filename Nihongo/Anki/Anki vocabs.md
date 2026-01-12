@@ -261,6 +261,38 @@
 | 洗濯           | せんたく     | sentaku      | Laundry, washing     | **洗濯**をします。               | I do the laundry.                                |
 | たくさん         | たくさん     | takusan      | A lot, many          | **たくさん**食べました。            | I ate a lot.                                     |
 | ビー玉          | ビーだま     | biidama      | Marble (glass ball)  | 子供が**ビー玉**で遊んでいます。     | The child is playing with marbles.               | ^vocab-marble
+| 帽子           | ぼうし      | boushi       | Hat, cap             | **帽子**をかぶります。             | I wear a hat.                                    |
+| ポケット         | ポケット     | poketto      | Pocket               | **ポケット**に財布を入れます。        | I put my wallet in my pocket.                    |
+| ポスト          | ポスト      | posuto       | Mailbox, post        | **ポスト**に手紙を入れます。         | I put the letter in the mailbox.                 |
+| ほか           | ほか       | hoka         | Other, besides       | これと**ほか**に何がありますか。      | What else is there besides this?                 |
+| ほう           | ほう       | hou          | Direction, side      | こちらの**ほう**が良いです。         | This way is better.                              |
+| ページ          | ページ      | pēji         | Page                 | この**ページ**を読んでください。      | Please read this page.                           |
+| 勉強           | べんきょう    | benkyou      | Study                | **勉強**が好きです。              | I like studying.                                 |
+| 町            | まち       | machi        | Town                 | この**町**は静かです。             | This town is quiet.                              |
+| マッチ          | マッチ      | matchi       | Match (fire)         | **マッチ**で火をつけます。          | I light a fire with a match.                     |
+| 窓            | まど       | mado         | Window               | **窓**を開けてください。            | Please open the window.                          |
+| 万            | まん       | man          | Ten thousand         | **一万**円です。                 | It's ten thousand yen.                           |
+| 万年筆          | まんねんひつ   | mannenhitsu  | Fountain pen         | **万年筆**で手紙を書きます。         | I write a letter with a fountain pen.            |
+| 右            | みぎ       | migi         | Right (direction)    | **右**に曲がってください。           | Please turn right.                               |
+| 水            | みず       | mizu         | Water                | **水**を飲みます。               | I drink water.                                   |
+| 店            | みせ       | mise         | Shop, store          | この**店**は安いです。             | This shop is cheap.                              |
+| 道            | みち       | michi        | Road, way            | この**道**をまっすぐ行ってください。    | Please go straight on this road.                 |
+| 三日           | みっか      | mikka        | Third day, 3 days    | **三日**後に会いましょう。           | Let's meet in three days.                        |
+| 三つ           | みっつ      | mittsu       | Three (things)       | りんごを**三**つください。           | Please give me three apples.                     |
+| 緑            | みどり      | midori       | Green                | **緑**色が好きです。              | I like green.                                    |
+| 皆            | みな       | mina         | Everyone, all        | **皆**さん、こんにちは。            | Hello, everyone.                                 |
+| 南            | みなみ      | minami       | South                | **南**に行きます。               | I'm going south.                                 |
+| 耳            | みみ       | mimi         | Ear                  | **耳**が痛いです。               | My ear hurts.                                    |
+| 向こう          | むこう      | mukou        | Over there, opposite | **向**こうに見えます。             | I can see it over there.                         |
+| 村            | むら       | mura         | Village              | 小さな**村**に住んでいます。         | I live in a small village.                       |
+| 六日           | むいか      | muika        | Sixth day, 6 days    | **六日**後に会いましょう。           | Let's meet in six days.                          |
+| 六つ           | むっつ      | muttsu       | Six (things)         | りんごを**六**つください。           | Please give me six apples.                       |
+| 目            | め        | me           | Eye                  | **目**が疲れました。              | My eyes are tired.                               |
+| 眼鏡           | めがね      | megane       | Glasses, spectacles  | **眼鏡**をかけています。            | I'm wearing glasses.                             |
+| メートル         | めーとる     | mētoru       | Meter, metre         | 百**メートル**走りました。          | I ran 100 meters.                                |
+| 門            | もん       | mon          | Gate                 | 学校の**門**の前で会いましょう。      | Let's meet in front of the school gate.          |
+| 物            | もの       | mono         | Thing, object        | 大切な**物**です。               | It's an important thing.                         |
+| 木曜日          | もくようび    | mokuyoubi    | Thursday             | **木曜日**に会いましょう。          | Let's meet on Thursday.                          |
 
 ## Verbs
 
@@ -340,6 +372,11 @@
 | 弾く           | ひく       | hiku       | To play (instrument)        | ピアノを**弾**きます。            | I play the piano.                     |
 | 吹く           | ふく       | fuku       | To blow, to play (wind inst.)| 風が**吹**いています。            | The wind is blowing.                  |
 | 降る           | ふる       | furu       | To fall (rain/snow)         | 雨が**降**っています。             | It's raining.                         |
+| 待つ           | まつ       | matsu      | To wait                     | バスを**待**っています。           | I'm waiting for the bus.              |
+| 磨く           | みがく      | migaku     | To polish, to brush         | 歯を**磨**きます。               | I brush my teeth.                     |
+| 見る           | みる       | miru       | To see, to watch            | テレビを**見**ます。              | I watch TV.                           |
+| 見せる          | みせる      | miseru     | To show                     | 写真を**見**せてください。          | Please show me the photo.             |
+| 持つ           | もつ       | motsu      | To hold, to have            | かばんを**持**っています。          | I'm holding a bag.                    |
 | 疲れる          | つかれる     | tsukareru  | To get tired                | 仕事で**疲**れました。             | I got tired from work.                |
 | 着く           | つく       | tsuku      | To arrive                   | 駅に**着**きました。              | I arrived at the station.             |
 | 作る           | つくる      | tsukuru    | To make                     | 料理を**作**ります。              | I make food.                          |
@@ -404,6 +441,12 @@
 | 温い           | ぬるい      | nurui      | Lukewarm, tepid       | スープが**温**いです。          | The soup is lukewarm.        |
 | 強い           | つよい      | tsuyoi     | Strong                | 風が**強**いです。             | The wind is strong.          |
 | 遠い           | とおい      | tooi       | Far                   | 学校は**遠**いです。            | The school is far.            |
+| 丸い           | まるい      | marui      | Round, circular       | この**丸**いテーブルが好きです。   | I like this round table.     |
+| 短い           | みじかい     | mijikai    | Short                 | 髪が**短**いです。             | My hair is short.            |
+| 難しい          | むずかしい    | muzukashii | Difficult             | この問題は**難**しいです。        | This problem is difficult.   |
+| 下手           | へた       | heta       | Unskillful, poor at   | 私は料理が**下手**です。         | I'm poor at cooking.         |
+| 欲しい          | ほしい      | hoshii     | Want, desire          | 新しい車が**欲**しいです。        | I want a new car.            |
+| 便利           | べんり      | benri      | Convenient            | この店は**便利**です。          | This store is convenient.    |
 
 ## Adverbs
 
@@ -423,6 +466,13 @@
 | ちょっと         | ちょっと     | chotto     | A little, a bit     | **ちょっと**待ってください。      | Please wait a moment.               |
 | 時々           | ときどき     | tokidoki   | Sometimes           | **時々**映画を見ます。          | I sometimes watch movies.           |
 | とても          | とても      | totemo     | Very                | **とても**きれいです。          | It's very beautiful.                |
+| また           | また       | mata       | Again, also         | **また**来てください。          | Please come again.                  |
+| まだ           | まだ       | mada       | Still, not yet      | **まだ**終わっていません。        | It's not finished yet.              |
+| 真っすぐ         | まっすぐ     | massugu    | Straight            | **真**っ**すぐ**行ってください。   | Please go straight.                 |
+| もう           | もう       | mou        | Already, anymore    | **もう**食べました。           | I already ate.                      |
+| もう一度         | もういちど    | mou ichido | Once more, again    | **もう一度**言ってください。      | Please say it once more.            |
+| もちろん         | もちろん     | mochiron   | Of course           | **もちろん**です。            | Of course.                          |
+| もっと          | もっと      | motto      | More                | **もっと**勉強します。          | I'll study more.                    |
 
 ## Pronouns & Question Words
 
