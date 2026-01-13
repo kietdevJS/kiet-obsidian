@@ -6,7 +6,7 @@ kanban-plugin: board
 
 ## Queue
 
-- [ ] Resolve merge conflict AHM732 permission model @{2026-01-12}
+- [ ] LocalDX with Adapter Adapter
 
 
 ## Fix implemented
@@ -25,6 +25,7 @@ kanban-plugin: board
 - [ ] Update permission model
 - [ ] Fix 177516 exception
 - [ ] Bug 188706 (mark as Pulse)
+- [ ] Resolve merge conflict AHM732 permission model @{2026-01-12}
 - [ ] CONSOL - 187940 - Rejected @{2026-01-05}
 - [ ] CONSOL - 188115 - Rejected @{2026-01-05}
 - [ ] CONSOL - 186063 - Fixed @{2026-01-05}

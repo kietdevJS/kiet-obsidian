@@ -291,8 +291,15 @@
 | 眼鏡           | めがね      | megane       | Glasses, spectacles  | **眼鏡**をかけています。            | I'm wearing glasses.                             |
 | メートル         | めーとる     | mētoru       | Meter, metre         | 百**メートル**走りました。          | I ran 100 meters.                                |
 | 門            | もん       | mon          | Gate                 | 学校の**門**の前で会いましょう。      | Let's meet in front of the school gate.          |
+| 問題           | もんだい     | mondai       | Problem, question    | この**問題**は難しいです。          | This problem is difficult.                       |
 | 物            | もの       | mono         | Thing, object        | 大切な**物**です。               | It's an important thing.                         |
 | 木曜日          | もくようび    | mokuyoubi    | Thursday             | **木曜日**に会いましょう。          | Let's meet on Thursday.                          |
+| 八百屋          | やおや      | yaoya        | Vegetable shop       | **八百屋**で野菜を買います。        | I buy vegetables at the vegetable shop.          |
+| 山            | やま       | yama         | Mountain             | **山**に登ります。               | I climb the mountain.                            |
+| 休み           | やすみ      | yasumi       | Holiday, rest, break | 明日は**休**みです。              | Tomorrow is a day off.                           |
+| 野菜           | やさい      | yasai        | Vegetable            | **野菜**をたくさん食べます。         | I eat a lot of vegetables.                       |
+| 八つ           | やっつ      | yattsu       | Eight (things)       | りんごを**八**つください。          | Please give me eight apples.                     |
+| 夕方           | ゆうがた     | yuugata      | Evening              | **夕方**に会いましょう。           | Let's meet in the evening.                       |
 
 ## Verbs
 
@@ -377,6 +384,7 @@
 | 見る           | みる       | miru       | To see, to watch            | テレビを**見**ます。              | I watch TV.                           |
 | 見せる          | みせる      | miseru     | To show                     | 写真を**見**せてください。          | Please show me the photo.             |
 | 持つ           | もつ       | motsu      | To hold, to have            | かばんを**持**っています。          | I'm holding a bag.                    |
+| やる           | やる       | yaru       | To do, to give              | 宿題を**やる**。                | I do homework.                        |
 | 疲れる          | つかれる     | tsukareru  | To get tired                | 仕事で**疲**れました。             | I got tired from work.                |
 | 着く           | つく       | tsuku      | To arrive                   | 駅に**着**きました。              | I arrived at the station.             |
 | 作る           | つくる      | tsukuru    | To make                     | 料理を**作**ります。              | I make food.                          |
@@ -444,6 +452,8 @@
 | 丸い           | まるい      | marui      | Round, circular       | この**丸**いテーブルが好きです。   | I like this round table.     |
 | 短い           | みじかい     | mijikai    | Short                 | 髪が**短**いです。             | My hair is short.            |
 | 難しい          | むずかしい    | muzukashii | Difficult             | この問題は**難**しいです。        | This problem is difficult.   |
+| 易しい          | やさしい     | yasashii   | Easy, simple          | この問題は**易**しいです。        | This problem is easy.        |
+| 安い           | やすい      | yasui      | Cheap, inexpensive    | この店は**安**いです。           | This store is cheap.         |
 | 下手           | へた       | heta       | Unskillful, poor at   | 私は料理が**下手**です。         | I'm poor at cooking.         |
 | 欲しい          | ほしい      | hoshii     | Want, desire          | 新しい車が**欲**しいです。        | I want a new car.            |
 | 便利           | べんり      | benri      | Convenient            | この店は**便利**です。          | This store is convenient.    |
