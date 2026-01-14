@@ -300,6 +300,13 @@
 | 野菜           | やさい      | yasai        | Vegetable            | **野菜**をたくさん食べます。         | I eat a lot of vegetables.                       |
 | 八つ           | やっつ      | yattsu       | Eight (things)       | りんごを**八**つください。          | Please give me eight apples.                     |
 | 夕方           | ゆうがた     | yuugata      | Evening              | **夕方**に会いましょう。           | Let's meet in the evening.                       |
+| 夕飯           | ゆうはん     | yuuhan       | Dinner, evening meal | **夕飯**を食べましたか。           | Did you eat dinner?                             |
+| 郵便局         | ゆうびんきょく | yuubinkyoku  | Post office          | **郵便局**で手紙を出します。        | I send a letter at the post office.             |
+| 有名           | ゆうめい     | yuumei       | Famous               | **有名**な歌手です。               | (He/She) is a famous singer.                    |
+| 雪             | ゆき         | yuki         | Snow                 | **雪**が降っています。              | It's snowing.                                   |
+| 八日           | ようか       | youka        | Eighth day, 8 days   | **八日**に会いましょう。            | Let's meet on the 8th.                          |
+| 洋服           | ようふく     | youfuku      | Western clothes      | 新しい**洋服**を買いました。         | I bought new clothes.                           |
+| 横             | よこ         | yoko         | Side, beside         | 車の**横**に立っています。           | I'm standing beside the car.                    |
 
 ## Verbs
 
@@ -372,31 +379,6 @@
 | 寝る           | ねる       | neru       | To sleep                    | 毎晩**十**時に**ね**ます。         | I go to bed at 10 every night.        |
 | 登る           | のぼる      | noboru     | To climb                    | 山に**登**ります。               | I climb the mountain.                 |
 | 飲む           | のむ       | nomu       | To drink                    | **水**を**飲**みます。            | I drink water.                        |
-| 貼る           | はる       | haru       | To stick, to paste          | 壁にポスターを**貼**ります。         | I stick a poster on the wall.         |
-| 話す           | はなす      | hanasu     | To speak, to talk           | 日本語を**話**します。            | I speak Japanese.                     |
-| 働く           | はたらく     | hataraku   | To work                     | 会社で**働**いています。           | I work at a company.                  |
-| 引く           | ひく       | hiku       | To pull                     | ドアを**引**いてください。          | Please pull the door.                 |
-| 弾く           | ひく       | hiku       | To play (instrument)        | ピアノを**弾**きます。            | I play the piano.                     |
-| 吹く           | ふく       | fuku       | To blow, to play (wind inst.)| 風が**吹**いています。            | The wind is blowing.                  |
-| 降る           | ふる       | furu       | To fall (rain/snow)         | 雨が**降**っています。             | It's raining.                         |
-| 待つ           | まつ       | matsu      | To wait                     | バスを**待**っています。           | I'm waiting for the bus.              |
-| 磨く           | みがく      | migaku     | To polish, to brush         | 歯を**磨**きます。               | I brush my teeth.                     |
-| 見る           | みる       | miru       | To see, to watch            | テレビを**見**ます。              | I watch TV.                           |
-| 見せる          | みせる      | miseru     | To show                     | 写真を**見**せてください。          | Please show me the photo.             |
-| 持つ           | もつ       | motsu      | To hold, to have            | かばんを**持**っています。          | I'm holding a bag.                    |
-| やる           | やる       | yaru       | To do, to give              | 宿題を**やる**。                | I do homework.                        |
-| 疲れる          | つかれる     | tsukareru  | To get tired                | 仕事で**疲**れました。             | I got tired from work.                |
-| 着く           | つく       | tsuku      | To arrive                   | 駅に**着**きました。              | I arrived at the station.             |
-| 作る           | つくる      | tsukuru    | To make                     | 料理を**作**ります。              | I make food.                          |
-| 点ける          | つける      | tsukeru    | To turn on                  | 電気を**点**けてください。          | Please turn on the light.             |
-| 勤める          | つとめる     | tsutomeru  | To work, be employed        | 会社に**勤**めています。           | I work at a company.                  |
-| 出かける         | でかける     | dekakeru   | To go out                   | 友達と**出**かけます。            | I go out with friends.                |
-| 出来る          | できる      | dekiru     | To be able to, can          | 日本語が**出来**ます。            | I can speak Japanese.                 |
-| 出る           | でる       | deru       | To exit, to come out        | 部屋を**出**ます。               | I exit the room.                      |
-| 脱ぐ           | ぬぐ       | nugu       | To take off (clothes)      | 帽子を**脱**いでください。         | Please take off your hat.              |
-| 寝る           | ねる       | neru       | To sleep                   | 毎晩**十**時に**ね**ます。        | I go to bed at 10 every night.         |
-| 登る           | のぼる      | noboru     | To climb                   | 山に**登**ります。               | I climb the mountain.                  |
-| 飲む           | のむ       | nomu       | To drink                   | **水**を**飲**みます。            | I drink water.                         |
 
 ## Adjectives
 
@@ -483,6 +465,8 @@
 | もう一度         | もういちど    | mou ichido | Once more, again    | **もう一度**言ってください。      | Please say it once more.            |
 | もちろん         | もちろん     | mochiron   | Of course           | **もちろん**です。            | Of course.                          |
 | もっと          | もっと      | motto      | More                | **もっと**勉強します。          | I'll study more.                    |
+| ゆっくりと        | ゆっくりと    | yukkuri to | Slowly, leisurely   | **ゆっくりと**話してください。      | Please speak slowly.                |
+| よく            | よく        | yoku       | Often, well         | **よく**勉強します。              | I study often.                      |
 
 ## Pronouns & Question Words
 
